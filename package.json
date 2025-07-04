@@ -12,9 +12,13 @@
   "dependencies": {
     "localforage": "^1.10.0",
     "match-sorter": "^8.0.3",
+    "rc-tabs": "^15.6.1",
     "react": "^19.1.0",
+    "react-awesome-tabs": "^0.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.3",
+    "react-tabs": "^6.1.0",
+    "react-toastify": "^11.0.5",
     "sort-by": "^1.2.0"
   },
   "devDependencies": {
