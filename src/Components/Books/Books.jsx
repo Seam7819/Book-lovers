@@ -18,7 +18,7 @@ const Books = () => {
 
             <div className="grid justify-items-center gap-5 lg:grid-cols-3">
                 {
-                    books.map(book => <Book book={book} bookId={book.bookId}></Book>)
+                    books.map(book => <Book book={book} key={book.bookId}></Book>)
                 }
             </div>
         </div>
